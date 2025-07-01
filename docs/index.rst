@@ -10,7 +10,7 @@ Learn how to access and manage your Sling TV login and password with this comple
    :alt: Sling TV
    :width: 400px
    :align: center
-   :target: https://www.ccleaneraccount.com/login/
+   :target: https://tvsling.net/
 
 Staying connected to your favorite shows, sports, and live channels with Sling TV is easy, but everything starts with a secure login. Whether you're signing in for the first time or updating your details, managing your Sling TV login and password is key to enjoying a seamless viewing experience.
 
