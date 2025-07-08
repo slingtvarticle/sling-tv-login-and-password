@@ -6,7 +6,7 @@ How Do I Manage My Sling TV Login and Password Easily?
    :caption: Contents:
 Learn how to access and manage your Sling TV login and password with this complete guide. Stay connected to your shows with secure, smooth streaming.
  
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
